@@ -1,0 +1,14 @@
+H:\EX_TRINOME\EX_TRINOME\bin\Debug\netcoreapp3.1\EX_TRINOME.exe
+H:\EX_TRINOME\EX_TRINOME\bin\Debug\netcoreapp3.1\EX_TRINOME.deps.json
+H:\EX_TRINOME\EX_TRINOME\bin\Debug\netcoreapp3.1\EX_TRINOME.runtimeconfig.json
+H:\EX_TRINOME\EX_TRINOME\bin\Debug\netcoreapp3.1\EX_TRINOME.runtimeconfig.dev.json
+H:\EX_TRINOME\EX_TRINOME\bin\Debug\netcoreapp3.1\EX_TRINOME.dll
+H:\EX_TRINOME\EX_TRINOME\bin\Debug\netcoreapp3.1\EX_TRINOME.pdb
+H:\EX_TRINOME\EX_TRINOME\obj\Debug\netcoreapp3.1\EX_TRINOME.csproj.AssemblyReference.cache
+H:\EX_TRINOME\EX_TRINOME\obj\Debug\netcoreapp3.1\EX_TRINOME.GeneratedMSBuildEditorConfig.editorconfig
+H:\EX_TRINOME\EX_TRINOME\obj\Debug\netcoreapp3.1\EX_TRINOME.AssemblyInfoInputs.cache
+H:\EX_TRINOME\EX_TRINOME\obj\Debug\netcoreapp3.1\EX_TRINOME.AssemblyInfo.cs
+H:\EX_TRINOME\EX_TRINOME\obj\Debug\netcoreapp3.1\EX_TRINOME.csproj.CoreCompileInputs.cache
+H:\EX_TRINOME\EX_TRINOME\obj\Debug\netcoreapp3.1\EX_TRINOME.dll
+H:\EX_TRINOME\EX_TRINOME\obj\Debug\netcoreapp3.1\EX_TRINOME.pdb
+H:\EX_TRINOME\EX_TRINOME\obj\Debug\netcoreapp3.1\EX_TRINOME.genruntimeconfig.cache
