@@ -1,0 +1,14 @@
+H:\Matrice\5TTI_Matrice_Evrard\5TTI_Matrice_Evrard\bin\Debug\netcoreapp3.1\5TTI_Matrice_Evrard.exe
+H:\Matrice\5TTI_Matrice_Evrard\5TTI_Matrice_Evrard\bin\Debug\netcoreapp3.1\5TTI_Matrice_Evrard.deps.json
+H:\Matrice\5TTI_Matrice_Evrard\5TTI_Matrice_Evrard\bin\Debug\netcoreapp3.1\5TTI_Matrice_Evrard.runtimeconfig.json
+H:\Matrice\5TTI_Matrice_Evrard\5TTI_Matrice_Evrard\bin\Debug\netcoreapp3.1\5TTI_Matrice_Evrard.runtimeconfig.dev.json
+H:\Matrice\5TTI_Matrice_Evrard\5TTI_Matrice_Evrard\bin\Debug\netcoreapp3.1\5TTI_Matrice_Evrard.dll
+H:\Matrice\5TTI_Matrice_Evrard\5TTI_Matrice_Evrard\bin\Debug\netcoreapp3.1\5TTI_Matrice_Evrard.pdb
+H:\Matrice\5TTI_Matrice_Evrard\5TTI_Matrice_Evrard\obj\Debug\netcoreapp3.1\5TTI_Matrice_Evrard.csproj.AssemblyReference.cache
+H:\Matrice\5TTI_Matrice_Evrard\5TTI_Matrice_Evrard\obj\Debug\netcoreapp3.1\5TTI_Matrice_Evrard.GeneratedMSBuildEditorConfig.editorconfig
+H:\Matrice\5TTI_Matrice_Evrard\5TTI_Matrice_Evrard\obj\Debug\netcoreapp3.1\5TTI_Matrice_Evrard.AssemblyInfoInputs.cache
+H:\Matrice\5TTI_Matrice_Evrard\5TTI_Matrice_Evrard\obj\Debug\netcoreapp3.1\5TTI_Matrice_Evrard.AssemblyInfo.cs
+H:\Matrice\5TTI_Matrice_Evrard\5TTI_Matrice_Evrard\obj\Debug\netcoreapp3.1\5TTI_Matrice_Evrard.csproj.CoreCompileInputs.cache
+H:\Matrice\5TTI_Matrice_Evrard\5TTI_Matrice_Evrard\obj\Debug\netcoreapp3.1\5TTI_Matrice_Evrard.dll
+H:\Matrice\5TTI_Matrice_Evrard\5TTI_Matrice_Evrard\obj\Debug\netcoreapp3.1\5TTI_Matrice_Evrard.pdb
+H:\Matrice\5TTI_Matrice_Evrard\5TTI_Matrice_Evrard\obj\Debug\netcoreapp3.1\5TTI_Matrice_Evrard.genruntimeconfig.cache
