@@ -1,0 +1,14 @@
+H:\UAA11\TrianglePascale\IMATP5_EVRARD\IMATP5_EVRARD\obj\Debug\netcoreapp3.1\IMATP5_EVRARD.csproj.AssemblyReference.cache
+H:\UAA11\TrianglePascale\IMATP5_EVRARD\IMATP5_EVRARD\obj\Debug\netcoreapp3.1\IMATP5_EVRARD.GeneratedMSBuildEditorConfig.editorconfig
+H:\UAA11\TrianglePascale\IMATP5_EVRARD\IMATP5_EVRARD\obj\Debug\netcoreapp3.1\IMATP5_EVRARD.AssemblyInfoInputs.cache
+H:\UAA11\TrianglePascale\IMATP5_EVRARD\IMATP5_EVRARD\obj\Debug\netcoreapp3.1\IMATP5_EVRARD.AssemblyInfo.cs
+H:\UAA11\TrianglePascale\IMATP5_EVRARD\IMATP5_EVRARD\obj\Debug\netcoreapp3.1\IMATP5_EVRARD.csproj.CoreCompileInputs.cache
+H:\UAA11\TrianglePascale\IMATP5_EVRARD\IMATP5_EVRARD\bin\Debug\netcoreapp3.1\IMATP5_EVRARD.exe
+H:\UAA11\TrianglePascale\IMATP5_EVRARD\IMATP5_EVRARD\bin\Debug\netcoreapp3.1\IMATP5_EVRARD.deps.json
+H:\UAA11\TrianglePascale\IMATP5_EVRARD\IMATP5_EVRARD\bin\Debug\netcoreapp3.1\IMATP5_EVRARD.runtimeconfig.json
+H:\UAA11\TrianglePascale\IMATP5_EVRARD\IMATP5_EVRARD\bin\Debug\netcoreapp3.1\IMATP5_EVRARD.runtimeconfig.dev.json
+H:\UAA11\TrianglePascale\IMATP5_EVRARD\IMATP5_EVRARD\bin\Debug\netcoreapp3.1\IMATP5_EVRARD.dll
+H:\UAA11\TrianglePascale\IMATP5_EVRARD\IMATP5_EVRARD\bin\Debug\netcoreapp3.1\IMATP5_EVRARD.pdb
+H:\UAA11\TrianglePascale\IMATP5_EVRARD\IMATP5_EVRARD\obj\Debug\netcoreapp3.1\IMATP5_EVRARD.dll
+H:\UAA11\TrianglePascale\IMATP5_EVRARD\IMATP5_EVRARD\obj\Debug\netcoreapp3.1\IMATP5_EVRARD.pdb
+H:\UAA11\TrianglePascale\IMATP5_EVRARD\IMATP5_EVRARD\obj\Debug\netcoreapp3.1\IMATP5_EVRARD.genruntimeconfig.cache

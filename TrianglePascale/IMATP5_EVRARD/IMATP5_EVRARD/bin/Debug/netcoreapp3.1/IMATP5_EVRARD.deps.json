@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IMATP5_EVRARD/1.0.0": {
+        "runtime": {
+          "IMATP5_EVRARD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IMATP5_EVRARD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
